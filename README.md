@@ -25,7 +25,8 @@ https://stunnadawg.github.io/work-day-scheduler/index.html
 
 This project uses the following dependencies:
 
-- **jQuery**: A fast and feature-rich JavaScript library that simplifies HTML document traversing and event handling[jQuery website](https://jquery.com/)
+- **jQuery**: A fast and feature-rich JavaScript library that simplifies HTML document traversing and event handling
+[jQuery website](https://jquery.com/)
 
 - **DayJS**: A Javscript library that provides functions for parsing, validating, manipulating, and displaying dates and times in JavaScript. [Day.js website](https://day.js.org/)
 
