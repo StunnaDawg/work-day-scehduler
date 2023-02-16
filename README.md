@@ -8,7 +8,7 @@ During the building process of this application I learned how to incorporate day
 ## Instructions 
 You will need a browser installed on your local machine to run this application. Follow these steps:
 
-1. Clone the reopsitory with the following command: ‘git clone https://github.com/StunnaDawg/work-day-scheduler
+1. Clone the reopsitory with the following command: ‘git clone https://github.com/StunnaDawg/work-day-scheduler'
 
 2. CD into the repository on your local machine
 
